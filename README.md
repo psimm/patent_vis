@@ -50,17 +50,8 @@ The AAU data on patent novelty and impact, based on semantic similarity. This da
 
 D.S. Hain, R. Jurowetzki, T. Buchmann, P. Wolf (2018), A Vector Worth a Thousand Counts: A Temporal Semantic Similarity Approach to Patent Impact Prediction, available at: http://vbn.aau.dk/en/publications/a-vector-worth-a-thousand-counts(855d9758-d017-4b4a-baf5-8b7e72a1c223).html
 
-## Future development:
-The Global Patent Explorers is currently still under development, so undergoes constant improvements in terms of data quality and coverage, but also functionality and usability (requests welcome).
-
-Up to now, it provides the possibility for near real-time nowcasting and placecasting of patenting activity. However, this can up to now only be done for ex-ante measure of patent quality and novelty, while ex-post measures of patent impact are only available until 2010. However, the main effort is currently channeled towards the creation and validation of predictive measures of patent impact, which can be provided in real time. This features will (hopefully) be made available soon. For first details regarding the methodology consider:
-
-Hain, D. and R. Jurowetzki (2018), Introduction to Predictive Modeling in Entrepreneurship and Innovation Studies - A Hands-On Application in the Prediction of Breakthrough Patents, available at: http://vbn.aau.dk/en/publications/introduction-to-predictive-modeling-in-entrepreneurship-and-innovation-studies(64154609-b45c-45dc-82c4-b148f1c5bb7f).html
-
-Also, further features to explore the semantic structure and topic within patent texts are planned.
-
 ## Feedback & Contact
-Again, the current version is a beta and under constant development, therefore all kind of comments are highly appreciated to improve the quality of the global patent explorer. For feedback, requests, suggestions, bug- and error-reports (and everything else) contact
+All kinds of comments are highly appreciated to improve the quality of the global patent explorer. For feedback, requests, suggestions, bug- and error-reports (and everything else) contact
 Daniel Hain, dsh@business.aau.dk
 
 Further contributors to the project are:
