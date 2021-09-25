@@ -1,6 +1,5 @@
 # Patent explorer
 # R Shiny app
-# Contact: Paul Simmering, paul.simmering@gmail.com
 
 library(shiny) # Essential
 library(shinyWidgets) # For dropdownButton()
@@ -16,10 +15,6 @@ library(tidyverse) # Utility
 library(magrittr) # for %<>% function
 library(tools) # For tolower() and toTitleCase()
 library(DT) # Customizable table outputs
-
-# For local use
-# Needs to be commented out on server
-setwd("/Users/psimm/Google Drive/Patent App")
 
 # Load order matters
 source("R/settings.R")
